@@ -6,7 +6,7 @@ body {
   background-color: #dddbdb;
   color: rgb(42, 42, 42) !important;
   font-family: 'Roboto', sans-serif !important;
-  font-size: 18px !important;
+  font-size: 19px !important;
   line-height: 1;
   margin: 0;
   padding: 0;
@@ -22,7 +22,7 @@ li {
   padding: 10px;
   margin: 10px;
   background: #89c23e;
-  border-radius: 30px !important;
+  border-radius: 7px !important;
 }
 
 .label {
@@ -37,6 +37,18 @@ li {
 
 .form-group {
   margin-bottom: 5px;
+}
+
+.fas {
+  margin-right: 20px !important;
+}
+
+.fa-trash-alt {
+  margin-right: 0px !important;
+}
+
+.fa-plus {
+  margin-right: 0px !important;
 }
 
 h1 {
@@ -56,6 +68,6 @@ h2 {
   color: #89c23e !important;
 }
 
-#submitBtn {
+#addBurger {
   margin-bottom: 50px !important;
 }
