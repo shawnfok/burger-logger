@@ -13,7 +13,6 @@ if (process.env.JAWSDB_URL) {
   });
 }
 
-// Make connection.
 connection.connect();
 
 // Export connection for our ORM to use.
