@@ -1,7 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Alfa+Slab+One&family=Roboto&display=swap');
+
+body {
+  background-image: linear-gradient(135deg, #fdfcfb 0%, #d3bba7 100%);
+  height: 100vh;
+  background-color: #dddbdb;
+  color: rgb(42, 42, 42) !important;
+  font-family: 'Roboto', sans-serif !important;
+  font-size: 18px !important;
+  line-height: 1;
+  margin: 0;
+  padding: 0;
+  background-size: cover;
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  right: 0;
+  left: 0;
+}
+
 li {
-  padding: 5px;
-  margin: 5px;
-  background: #faebd7;
+  padding: 10px;
+  margin: 10px;
+  background: #89c23e;
+  border-radius: 30px !important;
 }
 
 .label {
@@ -16,4 +37,25 @@ li {
 
 .form-group {
   margin-bottom: 5px;
+}
+
+h1 {
+  font-family: 'Alfa Slab One', cursive !important;
+  font-size: 72px !important;
+  color: chocolate;
+}
+
+h2 {
+  font-family: 'Alfa Slab One', cursive !important;
+  color: chocolate !important;
+}
+
+#solgan {
+  font-family: 'Alfa Slab One', cursive !important;
+  font-size: 48px !important;
+  color: #89c23e !important;
+}
+
+#submitBtn {
+  margin-bottom: 50px !important;
 }
