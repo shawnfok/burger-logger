@@ -1,0 +1,3 @@
+-- INSERT INTO burgers (name) VALUES ('BLT Burgers');
+-- INSERT INTO burgers (name) VALUES ('Sloppy Joe Burgers');
+-- INSERT INTO burgers (name) VALUES ('California Burger');
