@@ -3,6 +3,9 @@
 # Eat-Da-Burger app
 ![GitHub License](https://img.shields.io/badge/license-MIT-brightgreen)
 
+![Eat-Da-Burger](/public/assets/img/burger-1.png)
+![Eat-Da-Burger](/public/assets/img/burger-2.png)
+
 ## Description
 This is a burger logger with MySQL, Node, Express, Handlebars and a homemade ORM.
 
