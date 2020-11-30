@@ -6,6 +6,9 @@
 ![Eat-Da-Burger](/public/assets/img/burger-1.png)
 ![Eat-Da-Burger](/public/assets/img/burger-2.png)
 
+## Deployed Site
+* Go to https://www.secure-mountain-20793.herokuapp.com/
+
 ## Description
 This is a burger logger with MySQL, Node, Express, Handlebars and a homemade ORM.
 
